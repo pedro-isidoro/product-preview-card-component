@@ -1,0 +1,8 @@
+:root{
+    --main-color: hsl(30, 38%, 92%);
+    --card-color: hsl(0, 0%, 100%);
+
+    --paragraph-color: hsl(228, 12%, 48%);
+    --price-color: hsl(158, 36%, 37%);
+    --hover-color: hsl(149, 40%, 22%);
+}
